@@ -38,5 +38,4 @@ $ git clone https://github.com/jyang001/GuardianNews.git
 * Allow users to view articles between a certain date span
 * Search feature to view articles with certain keywords as entered by the user
 
-## Contributing
-You can submit bug reports, feature requests, and pull requests at [the issue tracker](https://github.com/jyang001/GuardianNews/issues)
+
